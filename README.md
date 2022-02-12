@@ -3,9 +3,9 @@
 <img width="954" alt="3" src="https://user-images.githubusercontent.com/90266204/153724135-d06e4adc-df29-43cf-ae79-edef7fb44b17.png">
 <img width="954" alt="4" src="https://user-images.githubusercontent.com/90266204/153724136-a4330364-d186-44b4-83e5-df3dec0d9f62.png">
 
-# Setps to install or setup the project
-npx create-react-app assignment
-
+# Setps to install and Run the project
+npx create-react-app assignment - create a react boilerplate
+To run the project - npm start
 Have used material ui for UI components
 Use this command to install npm install @mui/material @emotion/react @emotion/styled
 
