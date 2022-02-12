@@ -1,3 +1,10 @@
+<img width="958" alt="1" src="https://user-images.githubusercontent.com/90266204/153724133-e27ac3e7-93cd-432f-91f5-b1af57380c4a.png">
+<img width="954" alt="3" src="https://user-images.githubusercontent.com/90266204/153724135-d06e4adc-df29-43cf-ae79-edef7fb44b17.png">
+<img width="954" alt="4" src="https://user-images.githubusercontent.com/90266204/153724136-a4330364-d186-44b4-83e5-df3dec0d9f62.png">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`<img width="960" alt="1" src="https://user-images.githubusercontent.com/90266204/153723981-1aafa839-c583-4215-8dd5-a9fcb112049f.png">
+### `npm start`
 
 
 Runs the app in the development mode.\
